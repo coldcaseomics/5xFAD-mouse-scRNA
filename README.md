@@ -7,7 +7,7 @@
 
 ## 데이터 다운로드
 1. https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE140510 접속
-2. GSE140510_RAW.tar 다운로드
+2. GSE140510_RAW.tar 다운로드 (7month)
 3. ./data/ 폴더에 압축 해제
 
 ## 폴더 구조
